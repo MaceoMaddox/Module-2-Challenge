@@ -270,6 +270,9 @@ a {
     color: navy;
 }
 
+#projects {
+    background-color: rgba(31, 30, 30, 0.24);
+}
 #projects .projects {
 	flex-direction: column;
 	max-width: 1200px;
